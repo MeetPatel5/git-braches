@@ -1,7 +1,3 @@
-[submodule "submodule"]
-	path = submodule
-	url = https://github.com/MeetPatel5/submodule-1.git
-	branch = master
 [submodule "submodule-2"]
 	path = submodule-2
 	url = https://github.com/MeetPatel5/submodule-2.git
